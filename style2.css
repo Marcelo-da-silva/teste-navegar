@@ -1,0 +1,12 @@
+body {
+  text-align: center;
+  background-color: #8a2be2;
+}
+.video {
+  border: none;
+  padding: 4px 10px 4px 10px;
+  outline: auto;
+  background-color: #b684e5;
+  text-decoration: none;
+  border-radius: 8px;
+}
